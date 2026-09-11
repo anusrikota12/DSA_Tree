@@ -1,7 +1,5 @@
 package Demo;
 import java.util.Stack;
-
-import Demo.PostorderTraversal.Node;
 public class IterativePostorderTraversal {
 	static class Node {
 		int data;
