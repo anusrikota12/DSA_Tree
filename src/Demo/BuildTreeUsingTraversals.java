@@ -67,7 +67,5 @@ public class BuildTreeUsingTraversals {
 		System.out.println();
 		System.out.println("Postorder: ");
 		postorder(root);
-		System.out.println();
-		
 	}
 }
