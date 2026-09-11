@@ -1,7 +1,5 @@
 package Demo;
 import java.util.HashMap;
-
-import Demo.IterativePostorderTraversal.Node;
 public class BuildTreeUsingTraversals {
 	static class Node {
 		int data;
